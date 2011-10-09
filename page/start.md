@@ -1,0 +1,18 @@
+# Transparenzgesetz Hamburg
+
+Eine lebendige Demokratie erfordert gut informierte Bürgerinnen und Bürger. Dies setzt wiederum voraus, dass politische Entscheidungsprozesse nicht verheimlicht, sondern transparent gestaltet werden. Das geltende Hamburgische Informationsfreiheitsgesetz enthält zwar Ansätze hierzu, hat aber viele Schwachstellen. Daher wollen wir es zu einem Transparenzgesetz erweitern.
+
+ 
+
+## Warum das Ganze?
+
+Viele Verträge, die die Stadt mit Privatunternehmen schließt, sind für niemanden außer den Vertragspartnern einsehbar. Hierdurch wird Misswirtschaft begünstigt, die Leidtragenden sind die Steuerzahler. Auch Gutachten, die von den Steuerzahler*innen bezahlt werden und den Behörden schon lange Zeit vorliegen, werden oft geheim gehalten, weil ihre Veröffentlichtung für den Senat unangenehm wäre.
+
+Damit soll Schluss sein, wir haben ein Recht zu sehen, was mit unseren Steuergeldern bezahlt wird und wer von der Vergabe öffentlicher Aufträge profitiert.
+
+## Was beinhaltet das Transparenzgesetz?
+Das Transparenzgesetz beinhaltet folgende Kernpunkte:
+
+Verträge der Stadt mit juristischen Person müssen grundsätzlich veröffentlicht werden. Sie treten erst nach einer bestimmten Frist in Kraft.
+Alle mit öffentlichen Geldern erhobenen oder gekauften Daten sind umgehend frei im Internet zu veröffentlichen.
+Das Gesetz kann bei großem öffentlichen Interesse auch rückwirkend auf alte Verträge (wie z. B. diejenigen zum Bau der Elbphilharmonie) angewandt werden

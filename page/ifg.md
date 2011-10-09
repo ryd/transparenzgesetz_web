@@ -1,0 +1,6 @@
+Wir treten dafür ein, dass das bestehende Hamburgische Informationsfreiheitsgesetz (IFG) so verändert wird, dass die Hamburger*innen über die Verwendung ihrer Steuergelder so gut wie möglich informiert werden. Wir wollen ein Transparenzgesetz für Hamburg, das seinen Namen auch verdient!
+
+An unserer Initiative sind beteiligt: Mehr Demokratie Hamburg, der Chaos Computer Club Hansestadt Hamburg, die Piraten Partei Hamburg, Transparency International Regionalgruppe Hamburg und Privatpersonen, die sich durch ihr Know-how und ihre tatkräftige Unterstützung beteiligen. Zusammen haben wir unsere Ideen von Transparenz in das bestehende Hamburgische Informationsfreiheitsgesetz (IFG) einfließen lassen und hieraus eine Gesetzesvorlage für mehr Transparenz bei der Auftragsvergabe durch die öffentliche Hand erarbeitet. Inspiriert wurden wir dabei u. a.vom Gesetz zur Förderung der Informationsfreiheit in Berlin und vom Gesetz über die Vergabe öffentlicher Aufträge in der Slowakei.
+
+
+Im Moment sind wir damit beschäftigt....
