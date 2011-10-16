@@ -14,8 +14,10 @@
 
 </head>
 <body>
-<% content %>
-<div id="footer">
-</div>
+    <div class="outer_box">
+        <div id="header"><img src="<% request.uri_base %>/images/banner.jpg"/></div>
+        <div id="content"><% content %></div>
+        <div id="footer"/>
+    </div>
 </body>
 </html>
