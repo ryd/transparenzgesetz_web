@@ -1,7 +1,6 @@
-
+/* Page */
 body {
     margin: 0;
-    margin-bottom: 25px;
     padding: 0;
     background-color: #ddd;
     font-family: "Lucida Grande", "Bitstream Vera Sans", "Verdana";
@@ -9,13 +8,16 @@ body {
     color: #333;
 }
 
-/* Links */
+/* Header Font */
 h1 {
     font-size: 28px;
     color: #000;
 }
 
-a  {color: #03c}
+/* Links */
+a  {color: #03c;
+    text-decoration: none;
+    }
 a:hover {
     background-color: #03c;
     color: white;
@@ -30,11 +32,30 @@ a:hover {
 }
 
 .outer_box {
-        width: 1024px;
+        width: 1020px;
         margin-top: 0px;
         margin-bottom: 0px;
         margin-left: auto;
         margin-right: auto;
         text-align: center;
         border: 0;
+}
+
+.button {
+    float: left;
+    height: 80px;
+    width: 204px;
+    background-repeat: repeat-x;
+    font-weight: bold;
+    font-size: 16px;
+    color: #891313;
+    padding-top: 20px;
+}
+
+.b_released {
+    background-image: url(/images/button_back.png);
+}
+
+.b_pressed {
+    background-image: url(/images/button_press.png);
 }
